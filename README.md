@@ -6,7 +6,7 @@
 
 <br>
 
-## ✨ Tecnologias
+##  Tecnologias
 
 O projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -15,11 +15,11 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - [JUnit](https://junit.org/junit5/)
 - [Maven](https://maven.apache.org)
 
-## 💻 Projeto
+##  Projeto
 
 Projeto realizado para habilitar testes de sistema no site do Google, utilizando JUnit e Selenium
 
-## 🚀 Como executar
+##  Como executar
 
 - Clone o repositório
 - Instale uma IDE a sua escolha (Recomendada: IntelliJ)
